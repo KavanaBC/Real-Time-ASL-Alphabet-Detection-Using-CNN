@@ -93,10 +93,10 @@ Dense(128) → Dropout → Dense(64)
 ### Screenshots
 
 #### 🖼️ U
-![Accuracy](screenshots/U.png)
+![Accuracy](screenshots/u.png)
 
 #### 🖼️ M
-![Accuracy](screenshots/M.png)
+![Accuracy](screenshots/m.png)
 
 #### 🖼️ A
 ![Accuracy](screenshots/A_inf.png)
