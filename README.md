@@ -107,6 +107,15 @@ Dense(128) → Dropout → Dense(64)
 #### 🖼️ Y
 ![Accuracy](screenshots/y.png)
 
+#### 🖼️ Nothing
+![Accuracy](screenshots/nothing.png)
+
+#### 🖼️ Streamlit UI
+![Accuracy](screenshots/UI.png)
+
+#### 🖼️ DELETE
+![Accuracy](screenshots/DEL.png)
+
 ---
 
 #### ✍️ By Kavana B C 
